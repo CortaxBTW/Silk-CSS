@@ -5,4 +5,4 @@ As stated in "License" This css is not to be shared by anyone or have any parts 
 
 If I find any part of my css anywhere I will take actions against the owner.
 
-Enjoy the css but I will repeat DO NOT SHARE WITH ANYONE, Even a close friend.
+Enjoy the css but I will repeat DO NOT SHARE WITH ANYONE, Even a close friend
