@@ -9,7 +9,7 @@
 
 
 
-/* Removals */
+/* Removal */
 
 #aMerger,
 #newsHolder,
@@ -354,8 +354,7 @@ input:checked+.sliderSml {
 }
 
 #instructionHolder {
-   backdrop-filter: blur(10px);
-   filter: blur(21px);
+   backdrop-filter: blur(1px);
 }
 #hudClassIcon {
     display: none;
